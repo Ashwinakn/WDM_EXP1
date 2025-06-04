@@ -11,7 +11,7 @@
 Employee Data
 ---------------
 @relation employee
-**Name:** ARJUN N S
+**Name:** ASHWINA K N 
 @attribute id numeric
 @attribute salary {low,medium,high}
 @attribute exp numeric
